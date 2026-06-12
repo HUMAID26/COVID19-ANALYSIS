@@ -52,7 +52,7 @@ This project provides real-time insights into India's COVID-19 pandemic progress
 
 bash
 # Clone the repository
-git clone https://github.com/HUMAID26/covid19-india-dashboard.git
+git clone https://github.com/HUMAID26/COVID19-ANALYSIS.git
 
 # Navigate to project directory
 cd covid19-india-dashboard
