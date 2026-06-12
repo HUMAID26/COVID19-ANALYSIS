@@ -102,7 +102,7 @@ COVID19-ANALYSIS/
 ├── assets/
 
    ├── style.css               # Custom styling
-   └── screenshot.png          # Dashboard preview
+   
 
 ---
 
