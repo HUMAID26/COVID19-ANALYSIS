@@ -80,18 +80,29 @@ gunicorn==20.1.0
 📁 Project Structure
 
 COVID19-ANALYSIS/
+
 │
+
 ├── app.py                      # Main Dash application
+
 ├── requirements.txt            # Python dependencies
+
 ├── README.md                   # Project documentation
+
 ├── Procfile                    # Deployment configuration
+
 │
+
 ├── data/
+
 │   └── state_wise_daily.csv    # COVID-19 dataset
+
 │
+
 ├── assets/
-    ├── style.css               # Custom styling
-    └── screenshot.png          # Dashboard preview
+
+   ├── style.css               # Custom styling
+   └── screenshot.png          # Dashboard preview
 
 ---
 
