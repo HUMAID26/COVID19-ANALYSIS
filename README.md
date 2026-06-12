@@ -65,9 +65,41 @@ python app.py
 
 # Open in browser
 http://127.0.0.1:8050
+
+---
+
+📦 Requirements
+text
+dash==2.14.0
+plotly==5.17.0
+pandas==2.0.3
+gunicorn==20.1.0
+
+---
+
+📁 Project Structure
+
+COVID19-ANALYSIS/
+│
+├── app.py                      # Main Dash application
+├── requirements.txt            # Python dependencies
+├── README.md                   # Project documentation
+├── Procfile                    # Deployment configuration
+│
+├── data/
+│   └── state_wise_daily.csv    # COVID-19 dataset
+│
+├── assets/
+    ├── style.css               # Custom styling
+    └── screenshot.png          # Dashboard preview
+
+---
+
 ⚠️ Note
 
 This project is intended for educational and learning purposes related to Python web scraping and Flask integration.
+
+---
 
 👨‍💻 Author
 
